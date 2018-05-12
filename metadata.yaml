@@ -1,0 +1,38 @@
+_repo: Planet-of-the-Damned_21873
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harrison, Harry
+    aliases:
+    - Dempsey, Henry Maxwell
+    - Harrison, Henry Maxwell
+    birthdate: 1925
+    deathdate: 2012
+    gutenberg_agent_id: '25395'
+    url: http://www.gutenberg.org/2009/agents/25395
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Harrison_%28writer%29
+description: A Classic Science Fiction adventure from the creator of The Stainless
+  Steel Rat and Bill the Galactic Hero. Brion has just won the Twenties, a global
+  competition that tests one' achievements in 20 categories of human activities. But
+  Brion must leave his world to help salvage the world of Dis, the most hellish planet
+  in the galaxy. At the publisher's request, this title is being sold without Digital
+  Rights Management software (DRM) applied.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Life on other planets -- Fiction'
+title: Planet of the Damned
+url: http://www.gutenberg.org/ebooks/21873
